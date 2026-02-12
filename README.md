@@ -42,3 +42,13 @@ Frontend developer focused on building fast, accessible, and scalable web experi
     <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
   </a>
 </p>
+---
+
+
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u4379658)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeNimra&theme=dark)](https://git.io/streak-stats)
